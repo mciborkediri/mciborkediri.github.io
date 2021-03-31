@@ -5,7 +5,7 @@
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
   </channel>
-    <channel id="Net.">
+  <channel id="Net.">
     <display-name lang="en">NET.</display-name>
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
@@ -15,12 +15,12 @@
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
     </channel>
-    <channel id="Net TV (usee)">
+  <channel id="Net TV (usee)">
     <display-name lang="en">NET.</display-name>
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
     </channel>
-    <channel id="Net TV (vidio)">
+  <channel id="Net TV (vidio)">
     <display-name lang="en">NET.</display-name>
     <icon src="https://www.firstmedia.com/files/packages/NET-tv.jpg" />
     <url>http://www.firstmedia.com</url>
@@ -9365,4 +9365,1236 @@
     <title lang="en">A Dreamy Journey</title>
     <desc lang="en">A soothing audio-visual journey that lulls babies into the realm of sleep.(n)</desc>
   </programme>
-</tv>
+</tv>itchcockian thriller.(n)</desc>
+  </programme>
+  <programme start="20210316115500 +0700" stop="20210316135500 +0700" channel="HBOHD">
+    <title lang="en">Charm City Kings</title>
+    <desc lang="en">Mouse desperately wants to join the infamous group of dirt-bike riders who rule the summertime streets. When the group leader takes him under his wing, Mouse skids toward a road way past the straight and narrow.(n)</desc>
+  </programme>
+  <programme start="20210316135500 +0700" stop="20210316160500 +0700" channel="HBOHD">
+    <title lang="en">I Am Sam</title>
+    <desc lang="en">The moving story of unconditional love that grows between a mentally challenged man, his daughter and the attorney who accepts his case pro bono.(n)</desc>
+  </programme>
+  <programme start="20210316160500 +0700" stop="20210316180500 +0700" channel="HBOHD">
+    <title lang="en">Deep Impact</title>
+    <desc lang="en">A veteran shuttle pilot embarks on a dangerous one-shot space mission to prevent a giant comet from colliding with the Earth.(n)</desc>
+  </programme>
+  <programme start="20210316180500 +0700" stop="20210316200000 +0700" channel="HBOHD">
+    <title lang="en">Spider-Man: Into The Spider-Verse</title>
+    <desc lang="en">Spider-Man: Into the Spider-Verse introduces Brooklyn teen Miles Morales, and the limitless possibilities of the Spider-Verse, where more than one can wear the mask.(n)</desc>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316222500 +0700" channel="HBOHD">
+    <title lang="en">Inception</title>
+    <desc lang="en">Christopher Nolan directs an exceptional cast in this sci-fi action film that travels around the globe and into the intimate and infinite world of dreams.(n)</desc>
+  </programme>
+  <programme start="20210316222500 +0700" stop="20210317002500 +0700" channel="HBOHD">
+    <title lang="en">Ben-Hur</title>
+    <desc lang="en">Jack Huston stars as Judah Ben-Hur, a wealthy prince who is framed for murder.(n)</desc>
+    <date>2016</date>
+  </programme>
+  <programme start="20210316001500 +0700" stop="20210316015500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Clueless</title>
+    <desc lang="en">Alicia Silverstone is Cher who believes in 'doing stuff for other people' but when it comes to matters of the heart, especially her own, she's clueless.(n)</desc>
+  </programme>
+  <programme start="20210316015500 +0700" stop="20210316030000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Saving My Tomorrow Part 1 And 2</title>
+    <desc lang="en">An HBO Original Documentary where kids share their thoughts on the environment of this changing earth.(n)</desc>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316043000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Crossword Mysteries: A Puzzle To Die For</title>
+    <desc lang="en">A crossword puzzle editor finds herself pulled into a police investigation when several of the clues in her recent puzzles are linked to unsolved crimes.(n)</desc>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316060000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Christmas 9 To 5</title>
+    <desc lang="en">A tough crime beat reporter gets the assignment of her life: to find the true meaning of Christmas.(n)</desc>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316062900 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S44</title>
+    <desc lang="en">Baby Bear and Telly have trouble trying to catch a firefly and must problem solve to figure it out.(n)</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210316062900 +0700" stop="20210316070500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S44</title>
+    <desc lang="en">The Count is running late to accept his Noble Prize for Counting. His friends on Sesame Street try to stall the judges by pretending to be him and solving a counting problem.(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20210316070500 +0700" stop="20210316071600 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn and Jake go into Beemo to defeat an evil Big Boss.(n)</desc>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20210316071600 +0700" stop="20210316072700 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn and Jake are terrible house sitters and have to go on a quest to replace PB's rare flower.(n)</desc>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20210316072700 +0700" stop="20210316073800 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn and Jake meet some humans living underground. Hooray! Except they find the Candy People irresistible. Oh no!(n)</desc>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20210316073800 +0700" stop="20210316075500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn and Jake get wrapped up in a high speed whodunit!(n)</desc>
+    <episode-num system="onscreen">E19</episode-num>
+  </programme>
+  <programme start="20210316075500 +0700" stop="20210316092500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Anastasia: Once Upon A Time</title>
+    <desc lang="en">Anastasia escapes Lenin’s murderous plot through a time travel portal. Landing in Madison, USA, in 1988, Anastasia is befriended by a teenage girl.(n)</desc>
+  </programme>
+  <programme start="20210316092500 +0700" stop="20210316110000 +0700" channel="HBOFamilyHD">
+    <title lang="en">A Thousand Words</title>
+    <desc lang="en">A glib man finds out that he has only 1000 words left to speak before he dies.(n)</desc>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316112500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S45</title>
+    <desc lang="en">Stinky is anxious about Chris leaving him at preschool. Elmo, the teacher and Chris give Stinky strategies to help Stinky calm down and remember that Chris will be back.(n)</desc>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20210316112500 +0700" stop="20210316115500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S45</title>
+    <desc lang="en">Leela and Elmo remember and recreate three of the yuckiest stains on Oscar’s tuxedo.(n)</desc>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20210316115500 +0700" stop="20210316131000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Ben 10 Vs. The Universe: The Movie</title>
+    <desc lang="en">When a blast from Ben's past - Vilgax - returns to do double the damage on Team Tennyson and planet Earth itself, Ben must go interstellar to save the day .(n)</desc>
+  </programme>
+  <programme start="20210316131000 +0700" stop="20210316142000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Saving My Tomorrow Part 1 And 2</title>
+    <desc lang="en">An HBO Original Documentary where kids share their thoughts on the environment of this changing earth.(n)</desc>
+  </programme>
+  <programme start="20210316142000 +0700" stop="20210316160000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Clueless</title>
+    <desc lang="en">Alicia Silverstone is Cher who believes in 'doing stuff for other people' but when it comes to matters of the heart, especially her own, she's clueless.(n)</desc>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316161500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn needs to date to the movies and must balance the contrasting advice of Jake and Marceline in wooing Princess Bubblegum so he can see that flick!(n)</desc>
+    <episode-num system="onscreen">E20</episode-num>
+  </programme>
+  <programme start="20210316161500 +0700" stop="20210316163000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">In order to cure the stomach ache of a giant, Finn &amp; Jake must break up a party happening in his belly.(n)</desc>
+    <episode-num system="onscreen">E21</episode-num>
+  </programme>
+  <programme start="20210316163000 +0700" stop="20210316164500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn and Jake must risk it all to see all their dreams come true at the center of a magic wish-granting maze.(n)</desc>
+    <episode-num system="onscreen">E22</episode-num>
+  </programme>
+  <programme start="20210316164500 +0700" stop="20210316170000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Adventure Time S2</title>
+    <desc lang="en">Finn and Jake have creative differences while making the best home movie ever!(n)</desc>
+    <episode-num system="onscreen">E23</episode-num>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316173000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S45</title>
+    <desc lang="en">When Elmo doesn’t feel like himself, Oscar tries to convince him that he’s turning into a Grouch. But Chris helps explain that everyone can have different types of feelings and those feelings come and go.(n)</desc>
+    <episode-num system="onscreen">E17</episode-num>
+  </programme>
+  <programme start="20210316173000 +0700" stop="20210316180000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S45</title>
+    <desc lang="en">Zoe learns to be careful with the words she uses after hurting Elmo's feelings over their friendship dance.(n)</desc>
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316195000 +0700" channel="HBOFamilyHD">
+    <title lang="en">The Lego Movie 2: The Second Part</title>
+    <desc lang="en">A new threat from outer space sends heroes of Bricksburg, Emmet, Lucy and Batman on a mission to previously unknown worlds where their brain and brawn are tested.(n)</desc>
+  </programme>
+  <programme start="20210316195000 +0700" stop="20210316211500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Crossword Mysteries: A Puzzle To Die For</title>
+    <desc lang="en">A crossword puzzle editor finds herself pulled into a police investigation when several of the clues in her recent puzzles are linked to unsolved crimes.(n)</desc>
+  </programme>
+  <programme start="20210316211500 +0700" stop="20210316224000 +0700" channel="HBOFamilyHD">
+    <title lang="en">Uglydolls</title>
+    <desc lang="en">Free-spirited Moxy and her UglyDolls friends confront what it means to be different and discover that you don’t have to be perfect to be amazing.(n)</desc>
+  </programme>
+  <programme start="20210316224000 +0700" stop="20210316230900 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S44</title>
+    <desc lang="en">Baby Bear and Telly have trouble trying to catch a firefly and must problem solve to figure it out.(n)</desc>
+    <episode-num system="onscreen">E10</episode-num>
+  </programme>
+  <programme start="20210316230900 +0700" stop="20210316234500 +0700" channel="HBOFamilyHD">
+    <title lang="en">Sesame Street S44</title>
+    <desc lang="en">The Count is running late to accept his Noble Prize for Counting. His friends on Sesame Street try to stall the judges by pretending to be him and solving a counting problem.(n)</desc>
+    <episode-num system="onscreen">E11</episode-num>
+  </programme>
+  <programme start="20210316003500 +0700" stop="20210316015500 +0700" channel="HBOHitsHD">
+    <title lang="en">Lights Out</title>
+    <desc lang="en">Rebecca and Martin both faced the same terrifying events that threatened their safety and sanity and is returning with a vengeance to torment the entire family.(n)</desc>
+  </programme>
+  <programme start="20210316015500 +0700" stop="20210316035500 +0700" channel="HBOHitsHD">
+    <title lang="en">Chappie</title>
+    <desc lang="en">Set in the future, a robot programmed with the ability to think and feel for himself becomes the target of destructive forces.(n)</desc>
+  </programme>
+  <programme start="20210316035500 +0700" stop="20210316063500 +0700" channel="HBOHitsHD">
+    <title lang="en">Harry Potter And The Chamber Of Secrets</title>
+    <desc lang="en">The famous boy wizard and his friends are back at Hogwarts to save the school from a terrible evil.(n)</desc>
+  </programme>
+  <programme start="20210316063500 +0700" stop="20210316084500 +0700" channel="HBOHitsHD">
+    <title lang="en">Rain Man</title>
+    <desc lang="en">A young wheeler-dealer's life is changed forever when he discovers he has an autistic savant older brother. Stars Tom Cruise and Dustin Hoffman.(n)</desc>
+  </programme>
+  <programme start="20210316084500 +0700" stop="20210316112000 +0700" channel="HBOHitsHD">
+    <title lang="en">Les Miserables</title>
+    <desc lang="en">An ex-convict breaks parole to find a new life and redemption but is pursued by an obsessive policeman who will not relent.(n)</desc>
+    <date>2012</date>
+  </programme>
+  <programme start="20210316112000 +0700" stop="20210316133000 +0700" channel="HBOHitsHD">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">Courtesy of an ancient wizard, a kid has the ability to turn into an adult version of himself, with superpowers. But he'll need to master these powers quickly to fight the deadly forces of evil.(n)</desc>
+  </programme>
+  <programme start="20210316133000 +0700" stop="20210316153500 +0700" channel="HBOHitsHD">
+    <title lang="en">World Trade Center</title>
+    <desc lang="en">A true story about the rescue mission during the aftermath of the World Trade Center disaster on September 11, 2001.(n)</desc>
+  </programme>
+  <programme start="20210316153500 +0700" stop="20210316181000 +0700" channel="HBOHitsHD">
+    <title lang="en">Harry Potter And The Chamber Of Secrets</title>
+    <desc lang="en">The famous boy wizard and his friends are back at Hogwarts to save the school from a terrible evil.(n)</desc>
+  </programme>
+  <programme start="20210316181000 +0700" stop="20210316195000 +0700" channel="HBOHitsHD">
+    <title lang="en">Searching</title>
+    <desc lang="en">A hyper-modern thriller told via the technology devices we use every day to communicate, a detective must trace the missing person's digital footprints before she disappears forever.(n)</desc>
+  </programme>
+  <programme start="20210316195000 +0700" stop="20210316220000 +0700" channel="HBOHitsHD">
+    <title lang="en">Shazam!</title>
+    <desc lang="en">Courtesy of an ancient wizard, a kid has the ability to turn into an adult version of himself, with superpowers. But he'll need to master these powers quickly to fight the deadly forces of evil.(n)</desc>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316234000 +0700" channel="HBOHitsHD">
+    <title lang="en">Rough Night</title>
+    <desc lang="en">Five best friends from college reunite 10 years later for a wild weekend getaway in Miami, where their outrageous antics and hard partying result in hilarious unexpected consequences.(n)</desc>
+  </programme>
+  <programme start="20210316013000 +0700" stop="20210316032500 +0700" channel="HBOSignatureHD">
+    <title lang="en">The Twilight Saga: Breaking Dawn (Part 1)</title>
+    <desc lang="en">Fourth instalment of The Twilight Saga franchise brings unforeseen and shocking developments for Bella and Edward following their marriage and the birth of their child.(n)</desc>
+  </programme>
+  <programme start="20210316032500 +0700" stop="20210316053000 +0700" channel="HBOSignatureHD">
+    <title lang="en">Hugo</title>
+    <desc lang="en">Set in 1930s Paris, an orphan who lives in the walls of a train station is wrapped up in a mystery involving his late father and an automaton.(n)</desc>
+  </programme>
+  <programme start="20210316053000 +0700" stop="20210316065500 +0700" channel="HBOSignatureHD">
+    <title lang="en">Rko 281</title>
+    <desc lang="en">This absorbing HBO docudrama tells the story of the making of what is considered by many to be America's greatest film, Citizen Kane.(n)</desc>
+  </programme>
+  <programme start="20210316065500 +0700" stop="20210316091500 +0700" channel="HBOSignatureHD">
+    <title lang="en">Memoirs Of A Geisha</title>
+    <desc lang="en">When a young girl is sold to a geisha house, she embarks on a lifelong journey which sees her blossoming into the legendary geisha, Sayuri.(n)</desc>
+  </programme>
+  <programme start="20210316091500 +0700" stop="20210316112000 +0700" channel="HBOSignatureHD">
+    <title lang="en">Harriet</title>
+    <desc lang="en">Based on the inspirational life of an iconic American freedom fighter, Harriet tells the extraordinary tale of Harriet Tubman's escape from slavery and transformation into one of America's greatest heroes.(n)</desc>
+  </programme>
+  <programme start="20210316112000 +0700" stop="20210316132500 +0700" channel="HBOSignatureHD">
+    <title lang="en">The Notebook</title>
+    <desc lang="en">A couple proves that true love is strong enough to withstand the brutal tests of memory and time.(n)</desc>
+  </programme>
+  <programme start="20210316132500 +0700" stop="20210316145000 +0700" channel="HBOSignatureHD">
+    <title lang="en">The Wedding Year</title>
+    <desc lang="en">When wedding invitations start pouring in, a carefree aspiring photographer and an aspiring chef who just started dating embark on a year-long adventure that puts their new relationship to test.(n)</desc>
+  </programme>
+  <programme start="20210316145000 +0700" stop="20210316165000 +0700" channel="HBOSignatureHD">
+    <title lang="en">The Sisterhood Of The Traveling Pants</title>
+    <desc lang="en">To stay connected, four girls each keep a pair of jeans for a week before passing them on, allowing them to share their lives while apart.(n)</desc>
+  </programme>
+  <programme start="20210316165000 +0700" stop="20210316185500 +0700" channel="HBOSignatureHD">
+    <title lang="en">Dreamgirls</title>
+    <desc lang="en">Three aspiring performers discover that the path to superstardom is strewn with obstacles and difficult decisions. Stars Jamie Foxx and Beyonce Knowles.(n)</desc>
+  </programme>
+  <programme start="20210316185500 +0700" stop="20210316210000 +0700" channel="HBOSignatureHD">
+    <title lang="en">Hugo</title>
+    <desc lang="en">Set in 1930s Paris, an orphan who lives in the walls of a train station is wrapped up in a mystery involving his late father and an automaton.(n)</desc>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316221500 +0700" channel="HBOSignatureHD">
+    <title lang="en">Allen V. Farrow S1</title>
+    <desc lang="en">A four-part documentary series that goes behind sensational headlines to reveal the private story of Hollywood’s notorious and public scandal - the accusation of sexual abuse against Woody Allen.(n)</desc>
+    <episode-num system="onscreen">S1</episode-num>
+  </programme>
+  <programme start="20210316221500 +0700" stop="20210317002500 +0700" channel="HBOSignatureHD">
+    <title lang="en">Dark Waters</title>
+    <desc lang="en">An attorney risks his career and family to uncover a dark secret hidden by one of the world’s largest corporations and to bring justice to a community dangerously exposed for decades to deadly chemicals.(n)</desc>
+  </programme>
+  <programme start="20210316001500 +0700" stop="20210316021000 +0700" channel="CINEMAX">
+    <title lang="en">Dinner For Schmucks</title>
+    <desc lang="en">An extraordinarily stupid man possesses the ability to ruin the life of anyone who spends more than a few minutes in his company.(n)</desc>
+  </programme>
+  <programme start="20210316021000 +0700" stop="20210316034000 +0700" channel="CINEMAX">
+    <title lang="en">Critters Attack!</title>
+    <desc lang="en">Babysitter Drea takes the kids hiking, unaware of an alien critter invasion. Under attack, will Drea discover her inner badass, and is Bianca, the harmless critter royal, as innocent as she seems?(n)</desc>
+  </programme>
+  <programme start="20210316034000 +0700" stop="20210316051500 +0700" channel="CINEMAX">
+    <title lang="en">The Tuxedo</title>
+    <desc lang="en">The fashionable Jackie Chan dishes out fast kicks, furious punches and driving tips in sartorial elegance.(n)</desc>
+  </programme>
+  <programme start="20210316051500 +0700" stop="20210316070500 +0700" channel="CINEMAX">
+    <title lang="en">Demolition Man</title>
+    <desc lang="en">A 21st-century cop resorts to desperate measures to apprehend a killer.(n)</desc>
+  </programme>
+  <programme start="20210316070500 +0700" stop="20210316090000 +0700" channel="CINEMAX">
+    <title lang="en">Angel Has Fallen</title>
+    <desc lang="en">A wrongfully accused Secret Service agent races against time to save the President and the country from imminent danger while on the run from his own agency and the FBI.(n)</desc>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316105500 +0700" channel="CINEMAX">
+    <title lang="en">Dinner For Schmucks</title>
+    <desc lang="en">An extraordinarily stupid man possesses the ability to ruin the life of anyone who spends more than a few minutes in his company.(n)</desc>
+  </programme>
+  <programme start="20210316105500 +0700" stop="20210316132000 +0700" channel="CINEMAX">
+    <title lang="en">Man On Fire</title>
+    <desc lang="en">A jaded and alcoholic ex-C.I.A. agent takes up a new job as a bodyguard to a child who helps reclaim his soul. But when his young charge is abducted, he vows revenge.(n)</desc>
+  </programme>
+  <programme start="20210316132000 +0700" stop="20210316151500 +0700" channel="CINEMAX">
+    <title lang="en">Sugar</title>
+    <desc lang="en">An HBO Original film of a baseball pitcher who struggles to pull his family out of poverty.(n)</desc>
+  </programme>
+  <programme start="20210316151500 +0700" stop="20210316165500 +0700" channel="CINEMAX">
+    <title lang="en">I Love You, Man</title>
+    <desc lang="en">In this comedy that explores what it truly means to be a friend, a successful realtor embarks on a series of 'man dates' to find a best man for his wedding.(n)</desc>
+  </programme>
+  <programme start="20210316165500 +0700" stop="20210316172500 +0700" channel="CINEMAX">
+    <title lang="en">Hollywood On Set S1</title>
+    <desc lang="en">Go behind the scenes of three major motion pictures per week; catch action footage and interviews with actors and filmmakers.(n)</desc>
+    <episode-num system="onscreen">E901</episode-num>
+  </programme>
+  <programme start="20210316172500 +0700" stop="20210316190500 +0700" channel="CINEMAX">
+    <title lang="en">Charlie'S Angels</title>
+    <desc lang="en">With the world’s smartest, bravest, and most highly trained women all over the globe, there are now teams of Angels guided by multiple Bosleys taking on the toughest jobs everywhere.(n)</desc>
+  </programme>
+  <programme start="20210316190500 +0700" stop="20210316210000 +0700" channel="CINEMAX">
+    <title lang="en">Red</title>
+    <desc lang="en">The peaceful life of a former CIA agent is interrupted when an assassin shows up, intent on killing him.(n)</desc>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316224000 +0700" channel="CINEMAX">
+    <title lang="en">A Score To Settle</title>
+    <desc lang="en">Diagnosed with a fatal condition, an ex-convict desperately try to make amends with his son while he plots a revenge on his old gang.(n)</desc>
+  </programme>
+  <programme start="20210316224000 +0700" stop="20210317005000 +0700" channel="CINEMAX">
+    <title lang="en">Creed Ii</title>
+    <desc lang="en">Adonis Creed faces the biggest challenge of his life: an opponent with ties to his past. Creed II is about rediscovering what made you a champion firstly and remembering you can’t escape your past.(n)</desc>
+  </programme>
+  <programme start="20210316093000 +0700" stop="20210316102500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Cruise Ship Killers</title>
+    <desc lang="id">Suatu pasangan muda memenangkan sebuah tiket berlayar dengan kapal pesiar yang semua biayanya ditanggung. Namun, keberuntungan mereka hilang saat salah satu dari mereka terbunuh di kapal tersebut.(n)</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20210316102500 +0700" stop="20210316105000 +0700" channel="CrimeInvestigation">
+    <title lang="id">KL Enforcers</title>
+    <desc lang="id">Tim forensik Kepolisian Kerajaan Malaysia menghadapi tugas berat ketika pesawat MH17 ditembak jatuh di Ukraina bagian timur. Bagaimana tim memulangkan jasad korban kepada keluarga mereka saat perang terus berkecamuk?(n)</desc>
+    <episode-num system="onscreen">S1 E6</episode-num>
+  </programme>
+  <programme start="20210316105000 +0700" stop="20210316112000 +0700" channel="CrimeInvestigation">
+    <title lang="id">KL Enforcers</title>
+    <desc lang="id">Kepolisian Kerajaan Malaysia memakai teknologi forensik mutakhir untuk menyelidiki aksi perampokan bersenjata di toko perhiasan. Pengawal Pantai berpatroli di perairan Malaysia Selatan untuk mencegah kegiatan ilegal.(n)</desc>
+    <episode-num system="onscreen">S1 E5</episode-num>
+  </programme>
+  <programme start="20210316112000 +0700" stop="20210316121500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Undercover Asia</title>
+    <desc lang="id">Para pembuat film mengikuti Hirotsugu Masuda, CEO dari perusahaan spesialis pembersih tempat kematian, saat ia dan timnya melakukan pekerjaan mereka.(n)</desc>
+    <episode-num system="onscreen">S4 E2</episode-num>
+  </programme>
+  <programme start="20210316121500 +0700" stop="20210316131000 +0700" channel="CrimeInvestigation">
+    <title lang="id">My Crazy Ex</title>
+    <desc lang="id">Seorang pria memutuskan untuk mengubah haluan kariernya dari seorang teknisi laboratorium menjadi seorang detektif swasta. Namun, sang kekasih mendapati bahwa kesuksesannya menyembunyikan suatu rahasia kelam.(n)</desc>
+    <episode-num system="onscreen">S4 E38</episode-num>
+  </programme>
+  <programme start="20210316131000 +0700" stop="20210316133500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Live Rescue: Emergency</title>
+    <desc lang="id">Sebuah tayangan tentang aksi berani para petugas yang menanggapi panggilan darurat.(n)</desc>
+    <episode-num system="onscreen">E15</episode-num>
+  </programme>
+  <programme start="20210316133500 +0700" stop="20210316140500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Live Rescue: Emergency</title>
+    <desc lang="id">Sebuah tayangan tentang aksi berani para petugas yang menanggapi panggilan darurat.(n)</desc>
+    <episode-num system="onscreen">E16</episode-num>
+  </programme>
+  <programme start="20210316140500 +0700" stop="20210316150000 +0700" channel="CrimeInvestigation">
+    <title lang="id">CI Asia: Top Terrorist</title>
+    <desc lang="id">Polisi memburu seorang dalang pengeboman yang terjadi pada tahun 2009 di Jakarta, namun mereka tertegun saat mendapati bahwa ciri khas pengeboman tersebut cocok dengan seorang teroris yang telah lama tewas.(n)</desc>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316155500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Surviving R. Kelly</title>
+    <desc lang="id">R. Kelly menjalani persidangan di Chicago atas sejumlah tuduhan kasus pornografi anak karena dugaan keikutsertaannya dalam sebuah rekaman video tak senonoh yang melibatkan seorang anak di bawah umur.(n)</desc>
+    <episode-num system="onscreen">S1 E4</episode-num>
+  </programme>
+  <programme start="20210316155500 +0700" stop="20210316164500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Ted Bundy: Serial Monster</title>
+    <desc lang="id">Asal-usul Ted Bundy dan obsesi gilanya terungkap untuk pertama kalinya. Kami akan menayangkan bagaimana ia merencanakan pembunuhannya, mengecoh para penyelidik dan mengapa ia sulit dihentikan meski berada di penjara.(n)</desc>
+    <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme start="20210316164500 +0700" stop="20210316173500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Surviving Jeffrey Epstein</title>
+    <desc lang="id">Beberapa penyintas menceritakan secara mendalam kisah Jeffrey Epstein, seorang miliarder misterius yang membujuk mereka ke rumahnya melalui sejumlah perekrut perempuan yang mereka pikir terpercaya.(n)</desc>
+    <episode-num system="onscreen">E1</episode-num>
+  </programme>
+  <programme start="20210316173500 +0700" stop="20210316182500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Intervention</title>
+    <desc lang="id">Kehidupan Jackie tampak sempurna. Ia memiliki keluarga harmonis, suami yang baik, dua putra nan tampan, dan karier sebagai perawat. Namun, tak seorang pun tahu jika Jackie merasa terjebak dalam pernikahan tanpa cinta.(n)</desc>
+    <episode-num system="onscreen">S14 E5</episode-num>
+  </programme>
+  <programme start="20210316182500 +0700" stop="20210316200500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Hoarders</title>
+    <desc lang="id">Gagasan Cindy yang tidak realistis tentang nilai suatu benda akan menimbulkan ketegangan antaranggota keluarganya kala ia mencoba memaksimalkan keuntungan sambil membersihkan properti.(n)</desc>
+    <episode-num system="onscreen">S11 E7</episode-num>
+  </programme>
+  <programme start="20210316200500 +0700" stop="20210316205500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Cold Case Files</title>
+    <desc lang="id">Di malam sebelum Halloween, sebuah panggilan masuk ke kepolisian Oil City, Pennsylvania. Sang penelepon mengaku baru saja melihat seorang gadis kecil diculik dari jalan oleh seorang pria dan dibawa dengan mobil merah.(n)</desc>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210316205500 +0700" stop="20210316214500 +0700" channel="CrimeInvestigation">
+    <title lang="id">Mark Of A Killer</title>
+    <desc lang="id">Polisi Dallas menemukan tiga mayat dengan mata yang telah diambil dengan cara dibedah. Dua polisi pemula melacak seorang pria psikopat yang memiliki kemampuan taksidermi dan membenci wanita.(n)</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20210316214500 +0700" stop="20210316223500 +0700" channel="CrimeInvestigation">
+    <title lang="id">See No Evil</title>
+    <desc lang="id">Pada 2 Desember 2014, Rhonda Daugherty yang berusia 49 tahun menghilang. Para detektif meminta bantuan masyarakat untuk mencari petunjuk kasus kehilangan tersebut. Para penyidik mengungkap tipu muslihat dan penipuan.(n)</desc>
+    <episode-num system="onscreen">S4 E14</episode-num>
+  </programme>
+  <programme start="20210316223500 +0700" stop="20210316232500 +0700" channel="CrimeInvestigation">
+    <title lang="id">I Killed My BFF</title>
+    <desc lang="id">Sekelompok teman melakukan aksi kejahatan kecil yang semakin lama semakin berbahaya. Polisi hampir menangkap kelompok ini, tapi salah satu dari mereka mengkhianati teman-temannya dan membunuh mereka satu demi satu.(n)</desc>
+    <episode-num system="onscreen">S2 E9</episode-num>
+  </programme>
+  <programme start="20210316232500 +0700" stop="20210317002000 +0700" channel="CrimeInvestigation">
+    <title lang="id">Cold Case Files</title>
+    <desc lang="id">Di malam sebelum Halloween, sebuah panggilan masuk ke kepolisian Oil City, Pennsylvania. Sang penelepon mengaku baru saja melihat seorang gadis kecil diculik dari jalan oleh seorang pria dan dibawa dengan mobil merah.(n)</desc>
+    <episode-num system="onscreen">E4</episode-num>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316110000 +0700" channel="Hits">
+    <title lang="id">Little House On...</title>
+    <desc lang="id">Saat James terbaring koma di rumah keluarga Ingalls, Charles membuat keluarganya semakin menderita dengan menolak untuk menerima kematian yang akan menimpa anaknya.(n)</desc>
+    <episode-num system="onscreen">S8 E23</episode-num>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="Hits">
+    <title lang="id">Family Ties</title>
+    <desc lang="id">Jennifer menyukai Tim, sang pitcher andalan dalam tim baseball sekolah. Saat ia datang untuk mengerjakan sebuah proyek, Jennifer sangat senang, namun ia merasa malu saat Tim kagum dengan bakat akademisnya.(n)</desc>
+    <episode-num system="onscreen">S5 E24</episode-num>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="Hits">
+    <title lang="id">Sabrina Teenage...</title>
+    <desc lang="id">Gejala flu menjadi lebih buruk bagi Sabrina saat ia, Harvey dan Valerie dibebani dengan tugas makan siang selama satu minggu di sekolah.(n)</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316130000 +0700" channel="Hits">
+    <title lang="id">Charlie's Angels</title>
+    <desc lang="id">Saat dua pria ditemukan terbunuh dalam keadaan yang mencurigakan di sebuah panti pijat, Charlie's Angels dipanggil untuk menyelidiki polisi yang melaporkan kejahatan tersebut.(n)</desc>
+    <episode-num system="onscreen">S1 E23</episode-num>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="Hits">
+    <title lang="id">Family Ties</title>
+    <desc lang="id">Alex mencoba mengatasi rasa bersalahnya saat ia menolak Greg dan selamat dari kecelakaan. Ia mulai bertemu dengan arwah Greg. Keluarganya pun mendesaknya untuk mencari bantuan.(n)</desc>
+    <episode-num system="onscreen">S5 E23</episode-num>
+  </programme>
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="Hits">
+    <title lang="id">Small Wonder</title>
+    <desc lang="id">Ted ditawari sebuah pekerjaan di Massachusetts dengan tunjangan besar, tetapi ia menginginkan opini jujur keluarganya tentang hal tersebut. Ted pun harus membuat keputusan.(n)</desc>
+    <episode-num system="onscreen">S2 E13</episode-num>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316150000 +0700" channel="Hits">
+    <title lang="id">Law &amp; Order: SVU</title>
+    <desc lang="id">Tim menemukan jasad seorang aktivis pembela hak-hak hewan dalam keadaan tanpa kepala di taman. Dengan dua tersangka, Benson dan Stabler harus membuktikan siapa tersangka sebenarnya di antara mereka berdua.(n)</desc>
+    <episode-num system="onscreen">S3 E13</episode-num>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316160000 +0700" channel="Hits">
+    <title lang="id">MacGyver</title>
+    <desc lang="id">MacGyver mewarisi sebuah mobil antik yang menimbulkan berbagai masalah saat kakeknya meninggal dunia.(n)</desc>
+    <episode-num system="onscreen">S6 E7</episode-num>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316163000 +0700" channel="Hits">
+    <title lang="id">Family Ties</title>
+    <desc lang="id">Jennifer menyukai Tim, sang pitcher andalan dalam tim baseball sekolah. Saat ia datang untuk mengerjakan sebuah proyek, Jennifer sangat senang, namun ia merasa malu saat Tim kagum dengan bakat akademisnya.(n)</desc>
+    <episode-num system="onscreen">S5 E24</episode-num>
+  </programme>
+  <programme start="20210316163000 +0700" stop="20210316170000 +0700" channel="Hits">
+    <title lang="id">Sabrina Teenage...</title>
+    <desc lang="id">Gejala flu menjadi lebih buruk bagi Sabrina saat ia, Harvey dan Valerie dibebani dengan tugas makan siang selama satu minggu di sekolah.(n)</desc>
+    <episode-num system="onscreen">S2 E15</episode-num>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316180000 +0700" channel="Hits">
+    <title lang="id">Miami Vice</title>
+    <desc lang="id">Sonny Crockett, seorang polisi yang menyamar untuk Wakil Departemen Miami dan Richard Tubbs, seorang petugas polisi Jalan New York dengan enggan bekerjasama dalam tugas menangkap penyelundup kokain asal Kolombia.(n)</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316190000 +0700" channel="Hits">
+    <title lang="id">Charlie's Angels</title>
+    <desc lang="id">Para Angel mungkin akhirnya bisa melihat Charlie. Ia diculik dan mereka harus terbang ke Hawaii untuk menyelamatkannya.(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316193000 +0700" channel="Hits">
+    <title lang="id">Family Ties</title>
+    <desc lang="id">Saat Skippy tergila-gila dengan teman kuliah baru Mallory, Amy Sussman, ia kaget sekaligus gembira mengetahui bahwa ini adalah hubungan romantis sungguhan pertamanya.(n)</desc>
+    <episode-num system="onscreen">S5 E25</episode-num>
+  </programme>
+  <programme start="20210316193000 +0700" stop="20210316200000 +0700" channel="Hits">
+    <title lang="id">Family Ties</title>
+    <desc lang="id">Saat Michele dan keluarganya datang berkunjung, Elyse sangat gembira, sementara anggota keluarga Keaton lainnya mempersiapkan diri untuk bersama dalam liburan akhir pekan nan panjang dan sulit.(n)</desc>
+    <episode-num system="onscreen">S5 E26</episode-num>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316210000 +0700" channel="Hits">
+    <title lang="id">Law &amp; Order: SVU</title>
+    <desc lang="id">Benson dan Tutola menyelidiki dua kasus pemerkosaan. Seorang korban pemerkosaan dibunuh, sedangkan korban pemerkosaan yang lain masih hidup dan menyatakan ia diperkosa petugas polisi. Apakah kasusnya memang seperti itu?(n)</desc>
+    <episode-num system="onscreen">S3 E14</episode-num>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="Hits">
+    <title lang="id">Sabrina Teenage...</title>
+    <desc lang="id">Meskipun Sabrina dan Harvey memiliki proyek sekolah untuk diselesaikan, mereka malah menundanya. Bibi Zelda memperingatkannya untuk tak menunda tugas-tugas penting.(n)</desc>
+    <episode-num system="onscreen">S2 E16</episode-num>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="Hits">
+    <title lang="id">Small Wonder</title>
+    <desc lang="id">Ted mengarang cerita tentang Project Blender agar pekerjaannya terdengar menarik.(n)</desc>
+    <episode-num system="onscreen">S2 E14</episode-num>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316230000 +0700" channel="Hits">
+    <title lang="id">MacGyver</title>
+    <desc lang="id">Saat Maria Romburg mulai mendesaknya untuk berkomitmen, MacGyver yang gugup melarikan diri ke dalam sebuah fantasi yang membawanya ke Old West.(n)</desc>
+    <episode-num system="onscreen">S6 E8</episode-num>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317000000 +0700" channel="Hits">
+    <title lang="id">Charlie's Angels</title>
+    <desc lang="id">Para Angel mungkin akhirnya bisa melihat Charlie. Ia diculik dan mereka harus terbang ke Hawaii untuk menyelamatkannya.(n)</desc>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316130000 +0700" channel="HITSMovies">
+    <title lang="id">Funny Girl</title>
+    <desc lang="id">Saksikan kisah kehidupan Fanny Brice, seorang komedian dan artis terkenal di awal tahun 1900-an. Ketenarannya sebagai gadis Ziegfeld, kariernya setelah itu, dan kehidupan pribadinya, terutama hubungan percintaannya.(n)</desc>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316150000 +0700" channel="HITSMovies">
+    <title lang="id">Harry And The Hendersons</title>
+    <desc lang="id">Keluarga Henderson mengadopsi sesosok Bigfoot nan ramah tetapi mereka mengalami kesulitan untuk merahasiakan legenda tentang makhluk ini.(n)</desc>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316170000 +0700" channel="HITSMovies">
+    <title lang="id">Fletch</title>
+    <desc lang="id">Irwin M. 'Fletch' Fletcher adalah seorang reporter surat kabar yang ditawari sejumlah besar uang untuk membunuh seorang jutawan yang mengidap kanker, tetapi dalam aksinya ia mengetahui fakta bahwa pria tersebut sehat.(n)</desc>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316190000 +0700" channel="HITSMovies">
+    <title lang="id">The Thomas Crown Affair</title>
+    <desc lang="id">Seorang eksekutif bank melakukan pencurian bernilai jutaan dolar. Ia pun harus beradu kecerdasan dengan seorang penyelidik asuransi seksi yang akan melakukan apa pun untuk mendapatkan buronannya.(n)</desc>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316210000 +0700" channel="HITSMovies">
+    <title lang="id">F/X2</title>
+    <desc lang="id">Seorang ahli efek film menolong mantan pacar kekasihnya, seorang polisi, yang tewas saat melakukan operasi penyamaran. Merasa ada kejanggalan, ia menyelidiki kasus tersebut bersama seorang mantan detektif.(n)</desc>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316230000 +0700" channel="HITSMovies">
+    <title lang="id">The Naked Gun 2: Smell Of Fear</title>
+    <desc lang="id">Letnan Frank Drebin menyadari bahwa kekasih baru mantan kekasihnya terlibat dalam sebuah rencana penculikan seorang ilmuwan yang mendukung energi surya.(n)</desc>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317010000 +0700" channel="HITSMovies">
+    <title lang="id">The Addams Family</title>
+    <desc lang="id">Para penipu berencana untuk membawa kabur uang milik keluarga eksentrik ini dengan menggunakan seorang kaki tangan yang mengaku sebagai Paman Fester mereka yang telah lama hilang.(n)</desc>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="FashionTV.id">
+    <title lang="en">Designers</title>
+    <desc lang="en">FashionTV gives you a closer and exclusive look at the world’s biggest designers. get to know the masterminds of the fashion world; interviews, inspirations and an in-depth look at their views of fashion.(n)</desc>
+  </programme>
+  <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="FashionTV.id">
+    <title lang="en">Designers</title>
+    <desc lang="en">FashionTV gives you a closer and exclusive look at the world’s biggest designers. get to know the masterminds of the fashion world; interviews, inspirations and an in-depth look at their views of fashion.(n)</desc>
+  </programme>
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Photoshoots</title>
+    <desc lang="en">Join FashionTV and take a trip behind-the-scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more.(n)</desc>
+  </programme>
+  <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Photoshoots</title>
+    <desc lang="en">Join FashionTV and take a trip behind-the-scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more.(n)</desc>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Films</title>
+    <desc lang="en">Experience the largest collection of fashion films with FashionTV! Choose from hundreds of fashion films from your favorite designers and houses featuring the most iconic models and directed by the world's leading fashion film directors in Fashion Films on FashionTV.(n)</desc>
+  </programme>
+  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Films</title>
+    <desc lang="en">Experience the largest collection of fashion films with FashionTV! Choose from hundreds of fashion films from your favorite designers and houses featuring the most iconic models and directed by the world's leading fashion film directors in Fashion Films on FashionTV.(n)</desc>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Models</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Models</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="FashionTV.id">
+    <title lang="en">Fitness</title>
+    <desc lang="en">Get fit with FashionTV and your favorite models. Exclusive insdie tips from fashion's elite on how to get catwalk ready.(n)</desc>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316045500 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion &amp; Sports</title>
+    <desc lang="en">Worldwide sporting events, exhibitions, car races, boating, campaigns, extreme outdoor sports &amp; sports fashion shows.(n)</desc>
+  </programme>
+  <programme start="20210316045500 +0700" stop="20210316050000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316053000 +0700" channel="FashionTV.id">
+    <title lang="en">Model Talks</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316053000 +0700" stop="20210316055500 +0700" channel="FashionTV.id">
+    <title lang="en">Hairstyles</title>
+    <desc lang="en">Your backstage pass to the world's greatest hair &amp; make-up gurus of fashion! find out all the latest hair and make-up trends; discover the secrets of the models, learn the tricks of the trade &amp; the beauty tips to be sure to get you noticed.(n)</desc>
+  </programme>
+  <programme start="20210316055500 +0700" stop="20210316060000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316063000 +0700" channel="FashionTV.id">
+    <title lang="en">Skincare</title>
+    <desc lang="en">Your backstage pass to the world's greatest gurus of fashion! find out all the latest trends; discover the secrets of the models, learn the tricks of the trade &amp; the beauty tips to be sure to get you noticed.(n)</desc>
+  </programme>
+  <programme start="20210316063000 +0700" stop="20210316065500 +0700" channel="FashionTV.id">
+    <title lang="en">Make-Up</title>
+    <desc lang="en">Your backstage pass to the world's greatest hair &amp; make-up gurus of fashion! find out all the latest hair and make-up trends; discover the secrets of the models, learn the tricks of the trade &amp; the beauty tips to be sure to get you noticed.(n)</desc>
+  </programme>
+  <programme start="20210316065500 +0700" stop="20210316070000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316070000 +0700" stop="20210316073000 +0700" channel="FashionTV.id">
+    <title lang="en">Ftv Special</title>
+    <desc lang="en">Join FashionTV, as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamor with breathtaking fashion, passion, and all the action.(n)</desc>
+  </programme>
+  <programme start="20210316073000 +0700" stop="20210316075500 +0700" channel="FashionTV.id">
+    <title lang="en">Ftv Special</title>
+    <desc lang="en">Join FashionTV, as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamor with breathtaking fashion, passion, and all the action.(n)</desc>
+  </programme>
+  <programme start="20210316075500 +0700" stop="20210316080000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316080000 +0700" stop="20210316083000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Photoshoots</title>
+    <desc lang="en">Join FashionTV and take a trip behind-the-scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more.(n)</desc>
+  </programme>
+  <programme start="20210316083000 +0700" stop="20210316085500 +0700" channel="FashionTV.id">
+    <title lang="en">Top Photoshoots</title>
+    <desc lang="en">Join FashionTV and take a trip behind-the-scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more.(n)</desc>
+  </programme>
+  <programme start="20210316085500 +0700" stop="20210316090000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316093000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Kids</title>
+    <desc lang="en">FashionTV brings you the latest trends in children's fashion with an exclusive look into top styles for dressing your little ones.(n)</desc>
+  </programme>
+  <programme start="20210316093000 +0700" stop="20210316095500 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Kids</title>
+    <desc lang="en">FashionTV brings you the latest trends in children's fashion with an exclusive look into top styles for dressing your little ones.(n)</desc>
+  </programme>
+  <programme start="20210316095500 +0700" stop="20210316100000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316103000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Films</title>
+    <desc lang="en">Experience the largest collection of fashion films with FashionTV! Choose from hundreds of fashion films from your favorite designers and houses featuring the most iconic models and directed by the world's leading fashion film directors in Fashion Films on FashionTV.(n)</desc>
+  </programme>
+  <programme start="20210316103000 +0700" stop="20210316105500 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Films</title>
+    <desc lang="en">Experience the largest collection of fashion films with FashionTV! Choose from hundreds of fashion films from your favorite designers and houses featuring the most iconic models and directed by the world's leading fashion film directors in Fashion Films on FashionTV.(n)</desc>
+  </programme>
+  <programme start="20210316105500 +0700" stop="20210316110000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Models</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316115500 +0700" channel="FashionTV.id">
+    <title lang="en">Top Models</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316115500 +0700" stop="20210316120000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316123000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Destination</title>
+    <desc lang="en">A glamorous &amp; entertaining journey into some of the world's exotic and fashionable destinations, with access to some of the best and hottest events, beautiful models, sunny beaches and much more….(n)</desc>
+  </programme>
+  <programme start="20210316123000 +0700" stop="20210316125500 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Destination</title>
+    <desc lang="en">A glamorous &amp; entertaining journey into some of the world's exotic and fashionable destinations, with access to some of the best and hottest events, beautiful models, sunny beaches and much more….(n)</desc>
+  </programme>
+  <programme start="20210316125500 +0700" stop="20210316130000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="FashionTV.id">
+    <title lang="en">Designers</title>
+    <desc lang="en">FashionTV gives you a closer and exclusive look at the world’s biggest designers. get to know the masterminds of the fashion world; interviews, inspirations and an in-depth look at their views of fashion.(n)</desc>
+  </programme>
+  <programme start="20210316133000 +0700" stop="20210316135500 +0700" channel="FashionTV.id">
+    <title lang="en">Designers</title>
+    <desc lang="en">FashionTV gives you a closer and exclusive look at the world’s biggest designers. get to know the masterminds of the fashion world; interviews, inspirations and an in-depth look at their views of fashion.(n)</desc>
+  </programme>
+  <programme start="20210316135500 +0700" stop="20210316140000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316143000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Photoshoots</title>
+    <desc lang="en">Join FashionTV and take a trip behind-the-scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more.(n)</desc>
+  </programme>
+  <programme start="20210316143000 +0700" stop="20210316145500 +0700" channel="FashionTV.id">
+    <title lang="en">Top Photoshoots</title>
+    <desc lang="en">Join FashionTV and take a trip behind-the-scenes at the world’s top photo shoots, from model highlights to glamorous celebrity editorials, sexy calendar shoots and much more.(n)</desc>
+  </programme>
+  <programme start="20210316145500 +0700" stop="20210316150000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316153000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Teens</title>
+    <desc lang="en">FashionTV brings you hottest teen fashion trends that will have you looking flawless. Get an exclusive look at top photoshoots and designers in the teens fashion world.(n)</desc>
+  </programme>
+  <programme start="20210316153000 +0700" stop="20210316155500 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Teens</title>
+    <desc lang="en">FashionTV brings you hottest teen fashion trends that will have you looking flawless. Get an exclusive look at top photoshoots and designers in the teens fashion world.(n)</desc>
+  </programme>
+  <programme start="20210316155500 +0700" stop="20210316160000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316163000 +0700" channel="FashionTV.id">
+    <title lang="en">Bridal</title>
+    <desc lang="en">FashionTV gives you an exclusive look into the enchanting world of bridal. Be the first to see the best  bridal collections, photoshoots and campaigns.(n)</desc>
+  </programme>
+  <programme start="20210316163000 +0700" stop="20210316165500 +0700" channel="FashionTV.id">
+    <title lang="en">Bridal</title>
+    <desc lang="en">FashionTV gives you an exclusive look into the enchanting world of bridal. Be the first to see the best  bridal collections, photoshoots and campaigns.(n)</desc>
+  </programme>
+  <programme start="20210316165500 +0700" stop="20210316170000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316173000 +0700" channel="FashionTV.id">
+    <title lang="en">Made In Uk</title>
+    <desc lang="en">Join FashionTV, as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamor with breathtaking fashion, passion, and all the action.(n)</desc>
+  </programme>
+  <programme start="20210316173000 +0700" stop="20210316175500 +0700" channel="FashionTV.id">
+    <title lang="en">Made In Uk</title>
+    <desc lang="en">Join FashionTV, as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamor with breathtaking fashion, passion, and all the action.(n)</desc>
+  </programme>
+  <programme start="20210316175500 +0700" stop="20210316180000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316183000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion News</title>
+    <desc lang="en">FashionTV presents the latest fashion news from around the world. stay tuned and stay in trend as we cover it first and as we cover it all.(n)</desc>
+  </programme>
+  <programme start="20210316183000 +0700" stop="20210316185500 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion News</title>
+    <desc lang="en">FashionTV presents the latest fashion news from around the world. stay tuned and stay in trend as we cover it first and as we cover it all.(n)</desc>
+  </programme>
+  <programme start="20210316185500 +0700" stop="20210316190000 +0700" channel="FashionTV.id">
+    <title lang="en">F-People</title>
+    <desc lang="en">FashionTV brings you an exclusive look at all of the fashion week front rows, red carpets, hollywood glamour and launch events.(n)</desc>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316193000 +0700" channel="FashionTV.id">
+    <title lang="en">Ftv Special</title>
+    <desc lang="en">Join FashionTV, as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamor with breathtaking fashion, passion, and all the action.(n)</desc>
+  </programme>
+  <programme start="20210316193000 +0700" stop="20210316195500 +0700" channel="FashionTV.id">
+    <title lang="en">Ftv Special</title>
+    <desc lang="en">Join FashionTV, as we take you on a complete journey with fashion’s greatest icons. Celebrate world glamor with breathtaking fashion, passion, and all the action.(n)</desc>
+  </programme>
+  <programme start="20210316195500 +0700" stop="20210316200000 +0700" channel="FashionTV.id">
+    <title lang="en">Fashion Week</title>
+    <desc lang="en">FashionTV brings you the latest coverage during the world's biggest fashion weeks, highlighting the best shows, backstage moments, front row appearances of the biggest brands and designers worldwide. Fashion news and reviews. i see it first.(n)</desc>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316203000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Models</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316210000 +0700" channel="FashionTV.id">
+    <title lang="en">Top Models</title>
+    <desc lang="en">A unique chance to get to know everything you've ever wanted to know about the world's most famous beauties. Hear what they have to say about the world of fashion, modeling and what's its like to be a runway model.(n)</desc>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="FashionTV.id">
+    <title lang="en">Designers</title>
+    <desc lang="en">FashionTV gives you a closer and exclusive look at the world’s biggest designers. get to know the masterminds of the fashion world; interviews, inspirations and an in-depth look at their views of fashion.(n)</desc>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="FashionTV.id">
+    <title lang="en">Designers</title>
+    <desc lang="en">FashionTV gives you a closer and exclusive look at the world’s biggest designers. get to know the masterminds of the fashion world; interviews, inspirations and an in-depth look at their views of fashion.(n)</desc>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="FashionTV.id">
+    <title lang="en">Midnite Haute</title>
+    <desc lang="en">Rated 18+ for nudity. the sexiest hour on television. seductive and sultry moments caught on film; check out all the best in sexy photo shoots, fashion shows, lingerie collections and making of calendars.(n)</desc>
+  </programme>
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="FashionTV.id">
+    <title lang="en">Midnite Haute</title>
+    <desc lang="en">Rated 18+ for nudity. the sexiest hour on television. seductive and sultry moments caught on film; check out all the best in sexy photo shoots, fashion shows, lingerie collections and making of calendars.(n)</desc>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210316233000 +0700" channel="FashionTV.id">
+    <title lang="en">Swimwear</title>
+    <desc lang="en">Gorgeous girls, exotic beaches &amp; trendy swimwear. a glance at the hot &amp; sexy swimwear collections of this season; your chance to see what's happening in the world of swimwear!(n)</desc>
+  </programme>
+  <programme start="20210316233000 +0700" stop="20210317000000 +0700" channel="FashionTV.id">
+    <title lang="en">Swimwear</title>
+    <desc lang="en">Gorgeous girls, exotic beaches &amp; trendy swimwear. a glance at the hot &amp; sexy swimwear collections of this season; your chance to see what's happening in the world of swimwear!(n)</desc>
+  </programme>
+  <programme start="20210316004500 +0700" stop="20210316020500 +0700" channel="SonyOneHD">
+    <title lang="en">Cheongdam-Dong Alice</title>
+    <desc lang="en">Seung Jo finds out his products are distributed illegally.  In Chang asks for a breakup with Se Kyung as he is debt-ridden and a burden to her.(n)</desc>
+  </programme>
+  <programme start="20210316020500 +0700" stop="20210316032000 +0700" channel="SonyOneHD">
+    <title lang="en">Law Of The Jungle In Wild Korea</title>
+    <desc lang="en">Celebrities shed their superstar images to travel to primitive places and learn how to survive on their own.(n)</desc>
+  </programme>
+  <programme start="20210316032000 +0700" stop="20210316050000 +0700" channel="SonyOneHD">
+    <title lang="en">Running Man</title>
+    <desc lang="en">The must watch for K-Variety shows! In this “urban action variety”, the hosts complete a series of obstacles and aim to eliminate each other to win.(n)</desc>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316053500 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316053500 +0700" stop="20210316061000 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316061000 +0700" stop="20210316064500 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316064500 +0700" stop="20210316072000 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316072000 +0700" stop="20210316075500 +0700" channel="SonyOneHD">
+    <title lang="en">Haechi</title>
+    <desc lang="en">Lee Geum foils Jin Hun’s plan to support a weak prince as the king’s heir.  Moon Soo risks his life to protest against the civil exam’s corruption.(n)</desc>
+  </programme>
+  <programme start="20210316075500 +0700" stop="20210316083500 +0700" channel="SonyOneHD">
+    <title lang="en">Haechi</title>
+    <desc lang="en">Lee Geum foils Jin Hun’s plan to support a weak prince as the king’s heir.  Moon Soo risks his life to protest against the civil exam’s corruption.(n)</desc>
+  </programme>
+  <programme start="20210316083500 +0700" stop="20210316095000 +0700" channel="SonyOneHD">
+    <title lang="en">Cheongdam-Dong Alice</title>
+    <desc lang="en">Seung Jo finds out his products are distributed illegally.  In Chang asks for a breakup with Se Kyung as he is debt-ridden and a burden to her.(n)</desc>
+  </programme>
+  <programme start="20210316095000 +0700" stop="20210316103700 +0700" channel="SonyOneHD">
+    <title lang="en">Ugly Alert</title>
+    <desc lang="en">Joon Soo explains to Na Ri the reason for Han Seo’s hostile attitude towards her.  Joo Young is delighted with Hyun Suk’s confession of love to her.(n)</desc>
+  </programme>
+  <programme start="20210316103700 +0700" stop="20210316112500 +0700" channel="SonyOneHD">
+    <title lang="en">Ugly Alert</title>
+    <desc lang="en">After reading Joon Soo’s letters, Kyung Tae’s father challenges him to jump off the building to prove his sincerity about compensating for his crime.(n)</desc>
+  </programme>
+  <programme start="20210316112500 +0700" stop="20210316124500 +0700" channel="SonyOneHD">
+    <title lang="en">The First Wives Club</title>
+    <desc lang="en">As Yang Sun disapproves of the way Ji Ran spends her money, she reminds Won Soo not to hand over his finances to Ji Ran and let her manages it.(n)</desc>
+  </programme>
+  <programme start="20210316124500 +0700" stop="20210316132000 +0700" channel="SonyOneHD">
+    <title lang="en">Haechi</title>
+    <desc lang="en">Lee Geum foils Jin Hun’s plan to support a weak prince as the king’s heir.  Moon Soo risks his life to protest against the civil exam’s corruption.(n)</desc>
+  </programme>
+  <programme start="20210316132000 +0700" stop="20210316140000 +0700" channel="SonyOneHD">
+    <title lang="en">Haechi</title>
+    <desc lang="en">Lee Geum foils Jin Hun’s plan to support a weak prince as the king’s heir.  Moon Soo risks his life to protest against the civil exam’s corruption.(n)</desc>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316141500 +0700" channel="SonyOneHD">
+    <title lang="en">K-Hits</title>
+    <desc lang="en">K-Hits brings you the latest in the K-pop scene.(n)</desc>
+  </programme>
+  <programme start="20210316141500 +0700" stop="20210316153000 +0700" channel="SonyOneHD">
+    <title lang="en">Cheongdam-Dong Alice</title>
+    <desc lang="en">Seung Jo finds out his products are distributed illegally.  In Chang asks for a breakup with Se Kyung as he is debt-ridden and a burden to her.(n)</desc>
+  </programme>
+  <programme start="20210316153000 +0700" stop="20210316160500 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316160500 +0700" stop="20210316164000 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316164000 +0700" stop="20210316171500 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316171500 +0700" stop="20210316175500 +0700" channel="SonyOneHD">
+    <title lang="en">Vip</title>
+    <desc lang="en">Jung Sun (Jang Nara) and Sung Joon (Lee Sang Yoon) face difficulties in their marriage after unexpected events occur in the VIP team they work in.(n)</desc>
+  </programme>
+  <programme start="20210316175500 +0700" stop="20210316183000 +0700" channel="SonyOneHD">
+    <title lang="en">Haechi</title>
+    <desc lang="en">Yeo Ji suggests a plan to incite public dissent over the exam’s malpractices.  Dal Moon shows up to protect Lee Geum when he is attacked by assassins.(n)</desc>
+  </programme>
+  <programme start="20210316183000 +0700" stop="20210316191000 +0700" channel="SonyOneHD">
+    <title lang="en">Haechi</title>
+    <desc lang="en">Yeo Ji suggests a plan to incite public dissent over the exam’s malpractices.  Dal Moon shows up to protect Lee Geum when he is attacked by assassins.(n)</desc>
+  </programme>
+  <programme start="20210316191000 +0700" stop="20210316203000 +0700" channel="SonyOneHD">
+    <title lang="en">Cheongdam-Dong Alice</title>
+    <desc lang="en">Seung Jo is deeply moved and cries after reading Se Kyung’s letter to him asking for leniency to In Chang. He decides to drop his lawsuit on In Chang.(n)</desc>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316210500 +0700" channel="SonyOneHD">
+    <title lang="en">Lovely In-Laws</title>
+    <desc lang="en">Kang Ja sees Soon Jung packing and tries to persuade her not to move out. She promises to help Kang San gets a job if Soon Jung agrees to stay.(n)</desc>
+  </programme>
+  <programme start="20210316210500 +0700" stop="20210316214500 +0700" channel="SonyOneHD">
+    <title lang="en">Lovely In-Laws</title>
+    <desc lang="en">Pyung Moon pays Young Shil a visit and apologizes for causing all the misunderstandings.  He tells her of his desire for Joo Ri to live with them.(n)</desc>
+  </programme>
+  <programme start="20210316214500 +0700" stop="20210316220000 +0700" channel="SonyOneHD">
+    <title lang="en">K-Hits</title>
+    <desc lang="en">K-Hits brings you the latest in the K-pop scene.(n)</desc>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316232500 +0700" channel="SonyOneHD">
+    <title lang="en">Law Of The Jungle In Wild Korea</title>
+    <desc lang="en">Celebrities shed their superstar images to travel to primitive places and learn how to survive on their own.(n)</desc>
+  </programme>
+  <programme start="20210316232500 +0700" stop="20210316234500 +0700" channel="SonyOneHD">
+    <title lang="en">K-Hits</title>
+    <desc lang="en">K-Hits brings you the latest in the K-pop scene.(n)</desc>
+  </programme>
+  <programme start="20210316010000 +0700" stop="20210316020000 +0700" channel="TVN">
+    <title lang="en">May Food Bless You</title>
+    <desc lang="en">Veteran comedians and longtime friends Choi Hwa-jung, Lee Young-ja, Song Eun-yi and Kim Sook listen to viewers' concerns and recommend food to heal their souls.(n)</desc>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316032000 +0700" channel="TVN">
+    <title lang="en">Mother's Touch: Korean Side Dishes</title>
+    <desc lang="en">Kim Su-mi, a veteran actress and a master in the kitchen, shares simple, healthy and authentic recipes of homemade Korean dishes and spread the joy of cooking with various K-stars.(n)</desc>
+  </programme>
+  <programme start="20210316032000 +0700" stop="20210316050000 +0700" channel="TVN">
+    <title lang="en">3 Meals A Day- Jeongseon Village</title>
+    <desc lang="en">"3 Meals A Day" returns to the village in Jeongseon County for another season of self-sufficient organic life!(n)</desc>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316060000 +0700" channel="TVN">
+    <title lang="en">May Food Bless You</title>
+    <desc lang="en">Veteran comedians and longtime friends Choi Hwa-jung, Lee Young-ja, Song Eun-yi and Kim Sook listen to viewers' concerns and recommend food to heal their souls.(n)</desc>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316073500 +0700" channel="TVN">
+    <title lang="en">3 Meals A Day- Jeongseon Village</title>
+    <desc lang="en">"3 Meals A Day" returns to the village in Jeongseon County for another season of self-sufficient organic life!(n)</desc>
+  </programme>
+  <programme start="20210316073500 +0700" stop="20210316080500 +0700" channel="TVN">
+    <title lang="en">M.U.S.T</title>
+    <desc lang="en">Irene Kim and her celebrity friends set off on a romantic trip in cities like Seoul, Bangkok and Singapore, exploring the cities and experiencing the culture.(n)</desc>
+  </programme>
+  <programme start="20210316080500 +0700" stop="20210316082000 +0700" channel="TVN">
+    <title lang="en">You Can Cook With Sam Kim</title>
+    <desc lang="en">Star chef Sam Kim will teach you how to make all kinds of delicious dishes – from Italian pasta, Spanish food to desserts! Follow his easy recipes and enjoy cooking!(n)</desc>
+  </programme>
+  <programme start="20210316082000 +0700" stop="20210316095500 +0700" channel="TVN">
+    <title lang="en">I Can See Your Voice 8</title>
+    <desc lang="en">Back for its 8th season, join the hosts and special celebrity guests to guess which of the contestants are skilled or tone-deaf just by looking at their appearance!(n)</desc>
+  </programme>
+  <programme start="20210316095500 +0700" stop="20210316112000 +0700" channel="TVN">
+    <title lang="en">The Crowned Clown</title>
+    <desc lang="en">In the midst of extreme political turmoil in Joseon, King Lee Hun brings a clown named Ha Sun into the palace to take his place on the throne in order to avoid assassination.(n)</desc>
+  </programme>
+  <programme start="20210316112000 +0700" stop="20210316123000 +0700" channel="TVN">
+    <title lang="en">Lawless Lawyer</title>
+    <desc lang="en">Bong Sang-pil, a gangster turned lawyer, and Ha Jae-yi, a lawyer with integrity, form a law firm. Using the law, its loopholes and their fists, they fight corruption and seek justice.(n)</desc>
+  </programme>
+  <programme start="20210316123000 +0700" stop="20210316134500 +0700" channel="TVN">
+    <title lang="en">Lawless Lawyer</title>
+    <desc lang="en">Bong Sang-pil, a gangster turned lawyer, and Ha Jae-yi, a lawyer with integrity, form a law firm. Using the law, its loopholes and their fists, they fight corruption and seek justice.(n)</desc>
+  </programme>
+  <programme start="20210316134500 +0700" stop="20210316152500 +0700" channel="TVN">
+    <title lang="en">Korean Hostel in Spain</title>
+    <desc lang="en">In Na PD's brand new variety show, Cha Seung-won and Yu Hae-jin reunite to run a hostel in Spain! The two show their chemistry as they serve warm meals and memories to passing Korean travelers.(n)</desc>
+  </programme>
+  <programme start="20210316152500 +0700" stop="20210316170000 +0700" channel="TVN">
+    <title lang="en">I Can See Your Voice 8</title>
+    <desc lang="en">Back for its 8th season, join the hosts and special celebrity guests to guess which of the contestants are skilled or tone-deaf just by looking at their appearance!(n)</desc>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316190000 +0700" channel="TVN">
+    <title lang="en">Youn Stay</title>
+    <desc lang="en">Youn Yuh-jung, Lee Seo-jin, Jung Yu-mi, Park Seo-joon and Choi Woo-shik run a hanok for visitors to enjoy traditional homestay experiences and discover the unique beauty of Korea.(n)</desc>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316201500 +0700" channel="TVN">
+    <title lang="en">Her Private Life</title>
+    <desc lang="en">Based on the webtoon "Noona Fan Dot Com", Sun Deok-mi is an art curator who lives a double life as an idol fan girl. Ryan, her new director, learns of her secret and begins to take an interest in her.(n)</desc>
+  </programme>
+  <programme start="20210316201500 +0700" stop="20210316213000 +0700" channel="TVN">
+    <title lang="en">Her Private Life</title>
+    <desc lang="en">Based on the webtoon "Noona Fan Dot Com", Sun Deok-mi is an art curator who lives a double life as an idol fan girl. Ryan, her new director, learns of her secret and begins to take an interest in her.(n)</desc>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316231000 +0700" channel="TVN">
+    <title lang="en">3 Meals A Day- Jeongseon Village</title>
+    <desc lang="en">"3 Meals A Day" returns to the village in Jeongseon County for another season of self-sufficient organic life!(n)</desc>
+  </programme>
+  <programme start="20210316231000 +0700" stop="20210317002500 +0700" channel="TVN">
+    <title lang="en">Mother's Touch: Korean Side Dishes</title>
+    <desc lang="en">Kim Su-mi, a veteran actress and a master in the kitchen, shares simple, healthy and authentic recipes of homemade Korean dishes and spread the joy of cooking with various K-stars.(n)</desc>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316105500 +0700" channel="TVNMovies">
+    <title lang="id">Will You Be There?</title>
+    <desc lang="id">Keinginan terakhir seorang ahli bedah adalah bertemu almarhum kekasihnya. Ia menerima pil yang bisa membawanya kembali ke masa lalu untuk menyelamatkan kekasihnya. Di sana, ia bertemu dengan dirinya di saat muda.(n)</desc>
+  </programme>
+  <programme start="20210316105500 +0700" stop="20210316130500 +0700" channel="TVNMovies">
+    <title lang="id">Sunset In My Hometown</title>
+    <desc lang="id">Ketika seorang rapper yang kurang sukses kembali ke kampung halamannya untuk mengunjungi ayahnya yang sakit, ia bertemu kembali dengan teman-teman dan keluarganya yang ia tinggalkan dulu.(n)</desc>
+  </programme>
+  <programme start="20210316130500 +0700" stop="20210316150000 +0700" channel="TVNMovies">
+    <title lang="id">Mr. Housewife</title>
+    <desc lang="id">Seorang ayah yang tinggal di rumah menikmati kesehariannya dan merawat putrinya. Namun saat terbelit masalah keuangan, ia mengikuti sebuah acara permainan di TV demi memenangkan hadiah dengan menyamar sebagai wanita.(n)</desc>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316172000 +0700" channel="TVNMovies">
+    <title lang="id">The Fatal Encounter</title>
+    <desc lang="id">Raja Jeongjo diancam oleh faksi Nowon dan Soron yang menjadi lawannya dan berjuang untuk melindungi takhtanya. Ia menghadapi perlawanan dari segala arah dan menjadi target pembunuhan.(n)</desc>
+  </programme>
+  <programme start="20210316172000 +0700" stop="20210316185500 +0700" channel="TVNMovies">
+    <title lang="id">RV: Resurrected Victims</title>
+    <desc lang="id">Suatu hari, ibu jaksa Jin-hong yang sudah meninggal kembali ke rumah dan mencoba membunuhnya. Ia pun segera menjadi tersangka utama atas pembunuhan ibunya.(n)</desc>
+  </programme>
+  <programme start="20210316185500 +0700" stop="20210316210000 +0700" channel="TVNMovies">
+    <title lang="id">The Magician</title>
+    <desc lang="id">Seorang pesulap muda nan berbakat jatuh cinta pada seorang putri yang bertunangan dengan mantan gurunya. Hal ini menyebabkan sebuah pertikaian sengit antara dua pesulap nan hebat.(n)</desc>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316230000 +0700" channel="TVNMovies">
+    <title lang="id">No Tears For The Dead</title>
+    <desc lang="id">Seorang pembunuh bayaran, yang mengalami trauma setelah tak sengaja membunuh seorang gadis kecil saat menjalankan misi, ditugaskan untuk membunuh ibu gadis itu. Ia pun terlibat pertarungan hebat demi menyelamatkannya.(n)</desc>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210317010500 +0700" channel="TVNMovies">
+    <title lang="id">The Advocate: A Missing Body</title>
+    <desc lang="id">Seorang pengacara dan seorang jaksa menangani sebuah kasus pembunuhan yang tidak memiliki barang bukti ataupun jasad korban.(n)</desc>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">While out at the vegetable patch, Tohru encounters a snake which turns out to be Kyo’s older brother Ayame.(n)</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">It has been a year since Tohru’s mother passed away. At her part time job, Momiji tells Tohru about his family.(n)</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="Animax">
+    <title lang="en">My Next Life As A Villainess: All Routes Lead To Doom!</title>
+    <desc lang="en">Catarina’s maid, Anne, has a flashback about her life during the girls’ slumber party and realizes how much she has changed.(n)</desc>
+  </programme>
+  <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Ai and her friends find Yaichi with the other Ai. Angry at Yaichi for lying to her and for teaching another girl, Ai decides to leave home.(n)</desc>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Yaichi loses a match for the first time in a long while to his nemesis and has three weeks before the rematch to train and find a way to win.(n)</desc>
+  </programme>
+  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+    <desc lang="en">The Four Emperors retaliate against God Serena, who reveals himself to be a dragon slayer with multiple elemental powers and defeats the four wizards.(n)</desc>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="Animax">
+    <title lang="en">The Seven Deadly Sins -Imperial Wrath Of The Gods-</title>
+    <desc lang="en">King manages to return to the present. Diane and the two Gowthers encounter Zeldris, who wants Gowther back in prison.(n)</desc>
+  </programme>
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">While out at the vegetable patch, Tohru encounters a snake which turns out to be Kyo’s older brother Ayame.(n)</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20210316040000 +0700" stop="20210316043000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">It has been a year since Tohru’s mother passed away. At her part time job, Momiji tells Tohru about his family.(n)</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20210316043000 +0700" stop="20210316050000 +0700" channel="Animax">
+    <title lang="en">Clean Freak! Aoyama-Kun</title>
+    <desc lang="en">The soccer club room has been sparkling clean ever since Aoyama joined the club. In addition, even their uniforms are strangely well-folded.(n)</desc>
+  </programme>
+  <programme start="20210316050000 +0700" stop="20210316053000 +0700" channel="Animax">
+    <title lang="en">The Seven Deadly Sins -Imperial Wrath Of The Gods-</title>
+    <desc lang="en">King manages to return to the present. Diane and the two Gowthers encounter Zeldris, who wants Gowther back in prison.(n)</desc>
+  </programme>
+  <programme start="20210316053000 +0700" stop="20210316060000 +0700" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+    <desc lang="en">The Four Emperors retaliate against God Serena, who reveals himself to be a dragon slayer with multiple elemental powers and defeats the four wizards.(n)</desc>
+  </programme>
+  <programme start="20210316060000 +0700" stop="20210316063000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">While out at the vegetable patch, Tohru encounters a snake which turns out to be Kyo’s older brother Ayame.(n)</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20210316063000 +0700" stop="20210316070000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">It has been a year since Tohru’s mother passed away. At her part time job, Momiji tells Tohru about his family.(n)</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20210316070000 +0700" stop="20210316073000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Ai and her friends find Yaichi with the other Ai. Angry at Yaichi for lying to her and for teaching another girl, Ai decides to leave home.(n)</desc>
+  </programme>
+  <programme start="20210316073000 +0700" stop="20210316080000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Yaichi loses a match for the first time in a long while to his nemesis and has three weeks before the rematch to train and find a way to win.(n)</desc>
+  </programme>
+  <programme start="20210316080000 +0700" stop="20210316083000 +0700" channel="Animax">
+    <title lang="en">My Next Life As A Villainess: All Routes Lead To Doom!</title>
+    <desc lang="en">Catarina’s maid, Anne, has a flashback about her life during the girls’ slumber party and realizes how much she has changed.(n)</desc>
+  </programme>
+  <programme start="20210316083000 +0700" stop="20210316090000 +0700" channel="Animax">
+    <title lang="en">Real Girl</title>
+    <desc lang="en">Hikari has become a walking corpse ever since Iroha stopped coming to school. His friends try to cheer him up but fails.(n)</desc>
+  </programme>
+  <programme start="20210316090000 +0700" stop="20210316093000 +0700" channel="Animax">
+    <title lang="en">Real Girl</title>
+    <desc lang="en">Seven years have passed. Iroha returns to Japan from Los Angeles but no longer has her memories from high school.(n)</desc>
+  </programme>
+  <programme start="20210316093000 +0700" stop="20210316100000 +0700" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+    <desc lang="en">The Four Emperors retaliate against God Serena, who reveals himself to be a dragon slayer with multiple elemental powers and defeats the four wizards.(n)</desc>
+  </programme>
+  <programme start="20210316100000 +0700" stop="20210316103000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">While out at the vegetable patch, Tohru encounters a snake which turns out to be Kyo’s older brother Ayame.(n)</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20210316103000 +0700" stop="20210316110000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">It has been a year since Tohru’s mother passed away. At her part time job, Momiji tells Tohru about his family.(n)</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20210316110000 +0700" stop="20210316113000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Ai and her friends find Yaichi with the other Ai. Angry at Yaichi for lying to her and for teaching another girl, Ai decides to leave home.(n)</desc>
+  </programme>
+  <programme start="20210316113000 +0700" stop="20210316120000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Yaichi loses a match for the first time in a long while to his nemesis and has three weeks before the rematch to train and find a way to win.(n)</desc>
+  </programme>
+  <programme start="20210316120000 +0700" stop="20210316123000 +0700" channel="Animax">
+    <title lang="en">My Next Life As A Villainess: All Routes Lead To Doom!</title>
+    <desc lang="en">Catarina’s maid, Anne, has a flashback about her life during the girls’ slumber party and realizes how much she has changed.(n)</desc>
+  </programme>
+  <programme start="20210316123000 +0700" stop="20210316130000 +0700" channel="Animax">
+    <title lang="en">Clean Freak! Aoyama-Kun</title>
+    <desc lang="en">The soccer club room has been sparkling clean ever since Aoyama joined the club. In addition, even their uniforms are strangely well-folded.(n)</desc>
+  </programme>
+  <programme start="20210316130000 +0700" stop="20210316133000 +0700" channel="Animax">
+    <title lang="en">The Seven Deadly Sins -Imperial Wrath Of The Gods-</title>
+    <desc lang="en">King manages to return to the present. Diane and the two Gowthers encounter Zeldris, who wants Gowther back in prison.(n)</desc>
+  </programme>
+  <programme start="20210316133000 +0700" stop="20210316140000 +0700" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+    <desc lang="en">The Four Emperors retaliate against God Serena, who reveals himself to be a dragon slayer with multiple elemental powers and defeats the four wizards.(n)</desc>
+  </programme>
+  <programme start="20210316140000 +0700" stop="20210316143000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">While out at the vegetable patch, Tohru encounters a snake which turns out to be Kyo’s older brother Ayame.(n)</desc>
+    <episode-num system="onscreen">S1 E13</episode-num>
+  </programme>
+  <programme start="20210316143000 +0700" stop="20210316150000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">It has been a year since Tohru’s mother passed away. At her part time job, Momiji tells Tohru about his family.(n)</desc>
+    <episode-num system="onscreen">S1 E14</episode-num>
+  </programme>
+  <programme start="20210316150000 +0700" stop="20210316153000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Ai and her friends find Yaichi with the other Ai. Angry at Yaichi for lying to her and for teaching another girl, Ai decides to leave home.(n)</desc>
+  </programme>
+  <programme start="20210316153000 +0700" stop="20210316160000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Yaichi loses a match for the first time in a long while to his nemesis and has three weeks before the rematch to train and find a way to win.(n)</desc>
+  </programme>
+  <programme start="20210316160000 +0700" stop="20210316163000 +0700" channel="Animax">
+    <title lang="en">Yo-Kai Watch!</title>
+    <desc lang="en">Keita’s hair has grown long and he finds it a chore to cut it, but his hair suddenly starts having a life of its own.(n)</desc>
+  </programme>
+  <programme start="20210316163000 +0700" stop="20210316170000 +0700" channel="Animax">
+    <title lang="en">Yo-Kai Watch!</title>
+    <desc lang="en">Keita finds out that Bad Bouya has been pulling down his pants, but his friends cannot seem to get rid of Bad Bouya.(n)</desc>
+  </programme>
+  <programme start="20210316170000 +0700" stop="20210316173000 +0700" channel="Animax">
+    <title lang="en">Clean Freak! Aoyama-Kun</title>
+    <desc lang="en">Aoyama and some of the members of the soccer club head to a family restaurant. However, it turns into an eating competition with an upcoming opponent.(n)</desc>
+  </programme>
+  <programme start="20210316173000 +0700" stop="20210316180000 +0700" channel="Animax">
+    <title lang="en">Last Period -The Journey To The End Of The Despair-</title>
+    <desc lang="en">Haru and friends return from their holiday, only to find the Eight Branch closed. They follow directions from a map and meets a familiar face.(n)</desc>
+  </programme>
+  <programme start="20210316180000 +0700" stop="20210316183000 +0700" channel="Animax">
+    <title lang="en">Last Period -The Journey To The End Of The Despair-</title>
+    <desc lang="en">Haru and friends receives a new mission at a village where there are multiple hot springs. While working, they also get to enjoy the hot springs.(n)</desc>
+  </programme>
+  <programme start="20210316183000 +0700" stop="20210316190000 +0700" channel="Animax">
+    <title lang="en">My Next Life As A Villainess: All Routes Lead To Doom!</title>
+    <desc lang="en">Following the game plot, Catarina is accused of bullying Maria, but her friends vouch for her innocence. Maria disappears.(n)</desc>
+  </programme>
+  <programme start="20210316190000 +0700" stop="20210316193000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">As her age is reaching the age limit to get into the professional league, Keika is troubled and losing confidence in herself.(n)</desc>
+  </programme>
+  <programme start="20210316193000 +0700" stop="20210316200000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Ai, the other Ai and Keika participate in a female Shogi tournament. Yaichi is happy that both his disciples are able to win four matches in a row.(n)</desc>
+  </programme>
+  <programme start="20210316200000 +0700" stop="20210316203000 +0700" channel="Animax">
+    <title lang="en">Fairy Tail Final Series</title>
+    <desc lang="en">DiMaria stops time with her Age Seal magic to toy with Wendy, Sherria, and Charles, but the three are able to move under the power of Ultear.(n)</desc>
+  </programme>
+  <programme start="20210316203000 +0700" stop="20210316210000 +0700" channel="Animax">
+    <title lang="en">The Seven Deadly Sins -Imperial Wrath Of The Gods-</title>
+    <desc lang="en">Meliodas and the others are looking for Gowther, who ran away after seeing the magic heart which contains his emotions.(n)</desc>
+  </programme>
+  <programme start="20210316210000 +0700" stop="20210316213000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">Shigure brings Tohru, Yuki and Kyo to the Somas’ lakeside house for a short vacation, partly to mess with his editor.(n)</desc>
+    <episode-num system="onscreen">S1 E15</episode-num>
+  </programme>
+  <programme start="20210316213000 +0700" stop="20210316220000 +0700" channel="Animax">
+    <title lang="en">Fruits Basket Season 1</title>
+    <desc lang="en">Exasperated that Tohru is still using her school swimsuit, Arisa and Saki enlist the Somas’ help to buy one for her.(n)</desc>
+    <episode-num system="onscreen">S1 E16</episode-num>
+  </programme>
+  <programme start="20210316220000 +0700" stop="20210316223000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">As her age is reaching the age limit to get into the professional league, Keika is troubled and losing confidence in herself.(n)</desc>
+  </programme>
+  <programme start="20210316223000 +0700" stop="20210316230000 +0700" channel="Animax">
+    <title lang="en">The Ryuo'S Work Is Never Done!</title>
+    <desc lang="en">Ai, the other Ai and Keika participate in a female Shogi tournament. Yaichi is happy that both his disciples are able to win four matches in a row.(n)</desc>
+  </programme>
+  <programme start="20210316230000 +0700" stop="20210316233000 +0700" channel="Animax">
+    <title lang="en">Last Period -The Journey To The End Of The Despair-</title>
+    <desc lang="en">Haru and friends return from their holiday, only to find the Eight Branch closed. They follow directions from a map and meets a familiar face.(n)</desc>
+  </programme>
+  <programme start="20210316233000 +0700" stop="20210317000000 +0700" channel="Animax">
+    <title lang="en">Last Period -The Journey To The End Of The Despair-</title>
+    <desc lang="en">Haru and friends receives a new mission at a village where there are multiple hot springs. While working, they also get to enjoy the hot springs.(n)</desc>
+  </programme>
+  <programme start="20210316000000 +0700" stop="20210316003000 +0700" channel="Aniplus.id">
+    <title lang="id">Release the Spyce</title>
+    <desc lang="id">Theresia melanjutkan penyelidikannya tentang hubungan Hatsume dengan Tsukikage.(n)</desc>
+  </programme>
+  <programme start="20210316003000 +0700" stop="20210316010000 +0700" channel="Aniplus.id">
+    <title lang="id">Release the Spyce</title>
+    <desc lang="id">Tsukikage melakukan perjalanan ke Okinawa dan menemukan bahwa kontak mereka, The Shisa, telah dimusnahkan oleh Nirai Kanai.(n)</desc>
+  </programme>
+  <programme start="20210316010000 +0700" stop="20210316013000 +0700" channel="Aniplus.id">
+    <title lang="id">Attack on Titan</title>
+    <desc lang="id">Historia dan Erwin mengingat masa lalu mereka, mengungkapkan pemerintahan yang tenang dengan agenda tersembunyi dan inspirasi untuk pemberontakan.(n)</desc>
+    <episode-num system="onscreen">S3</episode-num>
+  </programme>
+  <programme start="20210316013000 +0700" stop="20210316020000 +0700" channel="Aniplus.id">
+    <title lang="id">TONIKAWA</title>
+    <sub-title lang="id">Over the Moon For You</sub-title>
+    <desc lang="id">Nasa dan Tsukasa menuju ke orang tua NASA. Ayah NASA, Enishi, dan ibu, Kanoka. Meskipun mereka yang memanggil pasangan itu, kegugupan tertulis di seluruh wajah mereka.(n)</desc>
+  </programme>
+  <programme start="20210316020000 +0700" stop="20210316023000 +0700" channel="Aniplus.id">
+    <title lang="id">The Misfit of Demon King Academy</title>
+    <sub-title lang="id">History's Strongest Demon King Reincarnates and Goes to School with His Descendants</sub-title>
+    <desc lang="id">Akademi menyelenggarakan sesi pelatihan sulap khusus oleh Ivis Necron dari Seven Ancients. Emilia memperingatkan Anos tentang perilakunya, tetapi itu tidak didengar saat Anos memanggil Ivis dengan namanya.(n)</desc>
+  </programme>
+  <programme start="20210316023000 +0700" stop="20210316030000 +0700" channel="Aniplus.id">
+    <title lang="id">Steins - Gate 0</title>
+    <desc lang="id">Okabe butuh waktu untuk mengenali para penyerang dan alasan mereka. Lalu, krisis PD III memaksa Suzuha mengambil tindakan nekad.(n)</desc>
+  </programme>
+  <programme start="20210316030000 +0700" stop="20210316033000 +0700" channel="Aniplus.id">
+    <title lang="id">DARLING in the FRANXX</title>
+    <desc lang="id">Perkembangan Squad 13 sangat pesat, tetapi nilai Chlorophytum terus menurun. Karena hal ini, Nana dan Hachi mengusulkan pertukaran pasangan.(n)</desc>
+  </programme>
+  <programme start="20210316033000 +0700" stop="20210316040000 +0700" channel="Aniplus.id">
+    <title lang="id">DARLING in the FRANXX</title>
+    <desc lang="id">Squad 13 kembali ke Garden untuk ujian, dengan kondisi emosional Zero Two yang semakin memburuk dari hari ke hari.(n)</desc>
+  </program
